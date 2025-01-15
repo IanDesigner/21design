@@ -4,5 +4,5 @@ body {
 	font-weight: 500;
 }
 .wrap .js-header-top-wrap {
-	margin-top:60000px;
+	margin-top:60000px !important;
 }
